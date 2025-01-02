@@ -19,7 +19,7 @@ Bienvenue sur mon journal d'apprentissage ! Ce repository documente mon parcours
 - Introduction au Machine Learning
 
 ## 📊 Suivi de Progression
-Consultez le dossier [/journal](/journal) pour le suivi détaillé semaine par semaine.
+Consultez le dossier [/journal](/journal.md) pour le suivi détaillé semaine par semaine.
 
 ## 🛠️ Projets
 Retrouvez mes projets pratiques dans le dossier [/projets](/projets).
