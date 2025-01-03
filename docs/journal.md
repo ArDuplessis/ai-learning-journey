@@ -1,1 +1,26 @@
-IyBKb3VybmFsIGRlIFByb2dyZXNzaW9uCgojIyBKYW52aWVyIDIwMjUKCiMjIyBTZW1haW5lIDEgKDYtMTIgamFudmllcikgLSBJbnRyb2R1Y3Rpb24gUHl0aG9uCiMjIyMgT2JqZWN0aWZzCi0gWyBdIENvbXBsw6l0ZXIgUHl0aG9uIGZvciBFdmVyeWJvZHkgc3VyIENvdXJzZXJhCi0gWyBdIFLDqWFsaXNlciA1IGV4ZXJjaWNlcyBDb2Rld2FycyBuaXZlYXUgOGt5dQotIFsgXSBDcsOpZXIgdW5lIGNhbGN1bGF0cmljZSBlbiBQeXRob24KCiMjIyMgSm91cm5hbCBRdW90aWRpZW4KfCBEYXRlIHwgQWN0aXZpdMOpcyB8IE5vdGVzIHwKfC0tLS0tLXwtLS0tLS0tLS0tfC0tLS0tLXwKfCA2LzAxIHwgfCB8CnwgNy8wMSB8IHwgfAp8IDgvMDEgfCB8IHwKfCA5LzAxIHwgfCB8CnwgMTAvMDEgfCB8IHwKfCAxMS8wMSB8IHwgfAp8IDEyLzAxIHwgfCB8CgojIyMgU2VtYWluZSAyICgxMy0xOSBqYW52aWVyKSAtIFN0cnVjdHVyZXMgUHl0aG9uCiMjIyMgT2JqZWN0aWZzCi0gWyBdIE1hw650cmlzZXIgbGVzIHN0cnVjdHVyZXMgZGUgY29udHLDtGxlCi0gWyBdIENvbXByZW5kcmUgbGVzIGZvbmN0aW9ucyBldCBtb2R1bGVzCi0gWyBdIETDqXZlbG9wcGVyIGxlIGpldSBkdSBwZW5kdQoKX0xlcyBhdXRyZXMgc2VtYWluZXMgc2Vyb250IGFqb3V0w6llcyBhdSBmdXIgZXQgw6AgbWVzdXJlIGRlIGxhIHByb2dyZXNzaW9uXw==
+# Journal de Progression
+
+## Janvier 2025
+
+### Semaine 1 (6-12 janvier) - Introduction Python
+#### Objectifs
+- [ ] Compléter Python for Everybody sur Coursera
+- [ ] Réaliser 5 exercices Codewars niveau 8kyu
+- [ ] Créer une calculatrice en Python
+
+#### Journal Quotidien
+| Date | Activités | Notes |
+|------|-----------|-------|
+| 6/01 | | |
+| 7/01 | | |
+| 8/01 | | |
+| 9/01 | | |
+| 10/01 | | |
+| 11/01 | | |
+| 12/01 | | |
+
+### Semaine 2 (13-19 janvier) - Structures Python
+#### Objectifs
+- [ ] Maîtriser les structures de contrôle
+- [ ] Comprendre les fonctions et modules
+- [ ] Développer le jeu du pendu
