@@ -39,14 +39,6 @@ ai-learning-journey/
 ### Phase 3 : Introduction au ML (Mars)
 - Semaines 9-10 : Algèbre linéaire et premiers pas ML
 
-## 📈 Progrès Hebdomadaire
-| Semaine | Dates | Module | Statut |
-|---------|-------|---------|--------|
-| 1 | 6-12 jan | Introduction Python | 🔜 À venir |
-| 2 | 13-19 jan | Structures Python | 🔜 À venir |
-| 3 | 20-26 jan | Pandas Initiation | 🔜 À venir |
-| 4 | 27-2 fév | Pandas & NumPy | 🔜 À venir |
-
 ## 💡 Points Clés
 - 2-3 heures d'étude par jour en semaine
 - Sessions pratiques le week-end
